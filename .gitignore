@@ -1,0 +1,14 @@
+.ipynb_checkpoints/
+
+venv/
+
+best_xgb_model.joblib
+
+*.csv
+
+irrelevant_for_now/
+
+
+__pycache__/
+.DS_Store
+*.pyc
