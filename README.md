@@ -47,7 +47,7 @@ The model predicts a patient’s **stroke risk (%)** based on 17 symptoms and de
 - Although age is medically correlated with stroke risk, the model tends to overestimate risk in healthy older individuals due to skewed training data. 
 -  Exploring partial dependence plots and stratified sampling to rebalance feature influence and calibrate predictions more accurately.
 
-
+---
 
 ## How to Run
 
